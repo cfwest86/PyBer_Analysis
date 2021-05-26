@@ -6,11 +6,12 @@ In support of our previous report on ride-sharing data, upper management has ask
 
 ## Results 
 
-![tablepyber](https://user-images.githubusercontent.com/81761879/119731337-d1180d00-be44-11eb-9a77-51ee5315649b.JPG)
 ### Figure A
+![tablepyber](https://user-images.githubusercontent.com/81761879/119731337-d1180d00-be44-11eb-9a77-51ee5315649b.JPG)
 
-![line chartty](https://user-images.githubusercontent.com/81761879/119731379-dd03cf00-be44-11eb-93ef-cbdefc75fd0d.JPG)
+
 ### Figure B
+![line chartty](https://user-images.githubusercontent.com/81761879/119731379-dd03cf00-be44-11eb-93ef-cbdefc75fd0d.JPG)
 
 As is evident in the chart in Figure A, there is a direct corrleation between population density and the 5 metrics recorded here. Specifically, as location population density increases...
   * total rides increase
